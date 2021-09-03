@@ -26,10 +26,19 @@ Ninth graders for Math and Reading were replaced with NANs only for the Thomas H
 All other grades scores remained the same and are unaffected. 
 
 o	Scores by school spending
+After the removal of ninth graders from Thomas High, the only change noted was within the 630-640 bin. Variables for percentage passing math, percentage passing reading, and overall passing dropped. 
 
 o	Scores by school size
+After the removal of 9th Graders from Thomas High School, variables for percentage passing math, percentage passing reading, and overall passing reduced on average by 6 percent each. 
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-Before the ninth graders from Thomas Hill High School were omitted from the data, they were ranked 2nd in the district.  Following the update they are ranked 8th.
-Wright High School is now listed in the top five following the update. 
+
+Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. (Please see supporting information in the Resource folder titled Summarized Changes)
+
+1. When comparing the District Summary, variables percentage passing math, percentage passing reading, and overall passing percentage dropped 1% for each category following the removal of ninth graders from Thomas High School. 
+
+2. When comparing the top five schools in the district, following the removal of ninth graders from Thomas High School the top five no longer remained the same.  Thomas High School was no longer in the top five schools.  THe bottom five schools remained the same after the students were omitted. 
+
+3. School types (Charter and District) were analyzed and compared.  Following the removal of ninth graders from Thomas High School, District totals remained the same, but Charter variables, percentage passing math, percentage passing reading, and overall passing percentage dropped by 4%, 4%, and 3% respectively.  It is important to note, that Thomas High School is a Charter School. 
+
+4. When analyzing the average score by school size, the 'medium' category showed a drop in percentage variables, passing math, passing reading, and overall passing percentage.  Percentages were reduced by 6 percent each variable. It is important to note that Thomas Hill High School is in the medium category.  
 
